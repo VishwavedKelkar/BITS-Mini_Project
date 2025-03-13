@@ -1,3 +1,10 @@
+## NOTE : 
+1.Use any name and password as username and password.
+<br/>
+2.Include 'fail' word in password field for IncorrectPassword constraint.
+  
+
+
 ## Demo : 
 
 
